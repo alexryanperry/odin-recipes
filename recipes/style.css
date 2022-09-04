@@ -1,0 +1,11 @@
+body {
+    background-color: black; 
+    color:white; 
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lists {
+    display: inline-block; 
+    text-align: left;
+}
